@@ -1,38 +1,38 @@
 {
-  "theme": "minimalist-dark-theme",
+  "theme": "swordfish-dark-theme",
 
   "properties": {
-    "name": "Daniel Castillo",
-    "description": "Frontend web developer and tireless creator",
-    "alt": "Photo of Daniel Castillo",
-    "hero": "./images/daniel-castillo.png"
+    "name": "Hamed Toledo",
+    "description": "En la lucha",
+    "alt": "Photo of Hamed Toledo",
+    "hero": "./images/perfil-hamed.jpg"
   },
 
   "Social": [
-    { "label": "Link", "type": "link", "link": "https://danielcastillop.netlify.app" },
-    { "label": "GitHub", "type": "github", "link": "https://github.com/dlcastillop" },
-    { "label": "Twitter", "type": "twitter", "link": "https://twitter.com/dlcastillop" },
-    { "label": "LinkedIn", "type": "linkedin", "link": "https://linkedin.com/in/dlcastillop" },
-    { "label": "Instagram", "type": "instagram", "link": "https://instagram.com/dlcastillop" },
+    { "label": "Link", "type": "link", "link": "https://linktr.ee//hamedtoledo" },
+    { "label": "GitHub", "type": "github", "link": "" },
+    { "label": "Twitter", "type": "twitter", "link": "https://twitter.com/hamed_toledo" },
+    { "label": "LinkedIn", "type": "linkedin", "link": "" },
+    { "label": "Instagram", "type": "instagram", "link": "" },
     { "label": "Discord", "type": "discord", "link": "" },
     { "label": "Facebook", "type": "facebook", "link": "" },
     { "label": "Medium", "type": "medium", "link": "" },
-    { "label": "Pinterest", "type": "pinterest", "link": "" },
-    { "label": "Snapchat", "type": "snapchat", "link": "" },
+    { "label": "Wordpress", "type": "wordpress", "link": "https://hamedtoledo.wordpress.com" },
+    { "label": "Substack", "type": "news", "link": "https://hamedtoledo.substack.com" },
     { "label": "Telegram", "type": "telegram", "link": "" },
     { "label": "TikTok", "type": "tiktok", "link": "" },
     { "label": "Twitch", "type": "twitch", "link": "" },
     { "label": "Vimeo", "type": "vimeo", "link": "" },
     { "label": "WhatsApp", "type": "whatsapp", "link": "" },
     { "label": "YouTube", "type": "youtube", "link": "" },
-    { "label": "Product Hunt", "type": "product-hunt", "link": "" }
+    { "label": "Email", "type": "envelope", "link": "mailto: hamedtoledo@protonmail.com" }
   ],
 
   "Payments": [
     {
       "id": "btc",
       "label": "Bitcoin",
-      "value": "bc1qejahgjmqnmyrw7jvn0d7evfdq6ssjl3wq7hfle",
+      "value": "",
       "img": "./images/payments/btc.svg"
     },
     {
@@ -56,7 +56,7 @@
     {
       "id": "eth",
       "label": "Ethereum",
-      "value": "0x59C864f658caD68A19a97499755080c056079988",
+      "value": "0xb5f138392bDD0faD0A4e6d3c48AA1f97796F2F92",
       "img": "./images/payments/eth.svg"
     },
     {
@@ -80,7 +80,7 @@
     {
       "id": "qvapay",
       "label": "QvaPay",
-      "value": "https://qvapay.com/payme/dlcastillop",
+      "value": "https://qvapay.com/payme/hamedtoledo",
       "img": "./images/payments/qvapay.svg"
     },
     {
@@ -109,8 +109,8 @@
     },
     {
       "id": "card",
-      "label": "Card",
-      "value": "",
+      "label": "Metropolitano",
+      "value": "9227959871210501",
       "img": "./images/payments/card.svg"
     }
   ]
